@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "5",
+      "name": "Impresora",
+      "price": 270000,
+      "stock": 8
+    },
+    {
+      "id": "6",
+      "name": "Audífonos Sony",
+      "price": 65000,
+      "stock": 30
+    },
+    {
+      "id": "7",
+      "name": "Disco duro externo 1TB",
+      "price": 85000,
+      "stock": 20
+    },
+    {
+      "id": "8",
+      "name": "Memoria USB 64GB",
+      "price": 12000,
+      "stock": 60
+    },
+    {
+      "id": "9",
+      "name": "iPhone 17 Pro Max",
+      "price": 1550000,
+      "stock": 10
+    },
+    {
+      "id": "10",
+      "name": "iPad 11 Chip A16 128GB",
+      "price": 220000,
+      "stock": 14
+    },
+    {
+      "id": "11",
+      "name": "Parlantes estéreo",
+      "price": 38000,
+      "stock": 27
+    },
+    {
+      "id": "12",
+      "name": "Cargador portátil (Power Bank)",
+      "price": 32000,
+      "stock": 35
+    }
+  ]
+}
